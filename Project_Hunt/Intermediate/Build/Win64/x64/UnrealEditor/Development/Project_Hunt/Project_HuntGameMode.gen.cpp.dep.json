@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\joe19\\documents\\github\\project_hunt\\project_hunt\\intermediate\\build\\win64\\unrealeditor\\inc\\project_hunt\\uht\\project_huntgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\joe19\\documents\\github\\project_hunt\\project_hunt\\intermediate\\build\\win64\\x64\\project_hunteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\joe19\\documents\\github\\project_hunt\\project_hunt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_hunt\\definitions.project_hunt.h",
+            "c:\\users\\joe19\\documents\\github\\project_hunt\\project_hunt\\source\\project_hunt\\project_huntgamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\joe19\\documents\\github\\project_hunt\\project_hunt\\intermediate\\build\\win64\\unrealeditor\\inc\\project_hunt\\uht\\project_huntgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

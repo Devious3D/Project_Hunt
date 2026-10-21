@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\joe19\\documents\\github\\project_hunt\\project_hunt\\intermediate\\build\\win64\\unrealeditor\\inc\\project_hunt\\uht\\project_hunt.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\joe19\\documents\\github\\project_hunt\\project_hunt\\intermediate\\build\\win64\\x64\\project_hunteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\joe19\\documents\\github\\project_hunt\\project_hunt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_hunt\\definitions.project_hunt.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

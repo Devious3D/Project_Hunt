@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\joe19\\documents\\github\\project_hunt\\project_hunt\\intermediate\\build\\win64\\unrealeditor\\inc\\project_hunt\\uht\\project_huntcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\joe19\\documents\\github\\project_hunt\\project_hunt\\intermediate\\build\\win64\\x64\\project_hunteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\joe19\\documents\\github\\project_hunt\\project_hunt\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_hunt\\definitions.project_hunt.h",
+            "c:\\users\\joe19\\documents\\github\\project_hunt\\project_hunt\\source\\project_hunt\\project_huntcharacter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\joe19\\documents\\github\\project_hunt\\project_hunt\\intermediate\\build\\win64\\unrealeditor\\inc\\project_hunt\\uht\\project_huntcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
